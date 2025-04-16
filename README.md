@@ -83,5 +83,5 @@ The Titanic dataset is available on [Kaggle](https://www.kaggle.com/competitions
 If you have any questions or suggestions, feel free to reach out:
 
 - 📧 Email: hullavarad@gmail.com
-- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/shashidhar-hullavarad/)
+- 💼 LinkedIn: [Shashidhar Hullavarad](https://www.linkedin.com/in/shashidhar-hullavarad/)
   
